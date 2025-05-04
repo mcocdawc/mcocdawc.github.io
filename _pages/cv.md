@@ -9,11 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎓 Education & Research Experience
+
+### Postdoctoral Research
+
+- **Massachusetts Institute of Technology** (2024– )
+  *Group of Troy van Voorhis*
+  - Development of quantum embedding methods and interpolation of reaction paths.
+
+- **Max Planck Institute for Solid State Research** (2024)
+  *Group of Ali Alavi*
+  - Wrap up post-doc. Continued work on stochastic CI methods following PhD defense.
+
+### PhD in Chemistry (2019–2024)
+- **Max Planck Institute for Solid State Research**
+  *Group of Ali Alavi, supervised by Giovanni Li Manni*
+  - Thesis: *"Novel Stochastic Methods in Electronic Structure Theory and Their Application"*.
+  - Defended with distinction (*summa cum laude*)
+  - 11 publications during PhD
+
+### Master of Science in Chemistry (2015–2018)
+- **Georg-August-Universität, Göttingen**
+  - Thesis: *An efficient and general library for the definition and use of internal coordinates in large molecular systems*
+  <!-- - Final Grade: **1.3** (German scale) -->
+  - 4 publications during Master’s studies
+
+<!-- ### ERASMUS+ Exchange (2015–2016)
+**Lund University, Sweden**
+*Group of Valera Veryazov*
+Research internship -->
+
+### Bachelor of Science in Chemistry (2011–2015)
+- **Georg-August-Universität, Göttingen**
+  - Thesis: *Highly accurate computation of spectroscopic properties for small molecular cations*
+  <!-- - Final Grade: **1.6** -->
+
+---
+
+## 📐 Additional Education
+
+### Bachelor of Science in Mathematics (2012–2021), **Fernuniversität Hagen**
+<!-- Final Grade: **1.8** -->
+- Thesis: *The Dirac-Operator on Quantumgraphs*
+
+---
+
+## 💼 Scholarships
+
+- **Stiftung der deutschen Wirtschaft** (2012–2017)
+
+---
+
+## 👤 Personal Details
+
+- **Date of Birth**: 23 October 1993
+- **Place of Birth**: Neustadt a.d. Weinstraße
+- **Nationality**: German
 
 Work experience
 ======
@@ -31,7 +82,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
@@ -46,19 +97,19 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
