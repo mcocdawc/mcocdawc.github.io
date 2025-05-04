@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## 🎓 Education & Research Experience
+## Education & Research Experience
 
 ### Postdoctoral Research
 
@@ -21,15 +21,15 @@ redirect_from:
   *Group of Ali Alavi*
   - Wrap up post-doc. Continued work on stochastic CI methods following PhD defense.
 
-### PhD in Chemistry (2019–2024)
-- **Max Planck Institute for Solid State Research**
+### PhD in Chemistry
+- **Max Planck Institute for Solid State Research** (2019–2024)
   *Group of Ali Alavi, supervised by Giovanni Li Manni*
-  - Thesis: *"Novel Stochastic Methods in Electronic Structure Theory and Their Application"*.
+  - Thesis: *Novel Stochastic Methods in Electronic Structure Theory and Their Application*.
   - Defended with distinction (*summa cum laude*)
   - 11 publications during PhD
 
-### Master of Science in Chemistry (2015–2018)
-- **Georg-August-Universität, Göttingen**
+### Master of Science in Chemistry
+- **Georg-August-Universität, Göttingen** (2015–2018)
   - Thesis: *An efficient and general library for the definition and use of internal coordinates in large molecular systems*
   <!-- - Final Grade: **1.3** (German scale) -->
   - 4 publications during Master’s studies
@@ -46,7 +46,7 @@ Research internship -->
 
 ---
 
-## 📐 Additional Education
+## Additional Education
 
 ### Bachelor of Science in Mathematics (2012–2021), **Fernuniversität Hagen**
 <!-- Final Grade: **1.8** -->
@@ -54,19 +54,19 @@ Research internship -->
 
 ---
 
-## 💼 Scholarships
+## Scholarships
 
 - **Stiftung der deutschen Wirtschaft** (2012–2017)
 
 ---
 
-## 👤 Personal Details
+<!-- ## 👤 Personal Details
 
 - **Date of Birth**: 23 October 1993
 - **Place of Birth**: Neustadt a.d. Weinstraße
-- **Nationality**: German
+- **Nationality**: German -->
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -81,16 +81,16 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
 
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
