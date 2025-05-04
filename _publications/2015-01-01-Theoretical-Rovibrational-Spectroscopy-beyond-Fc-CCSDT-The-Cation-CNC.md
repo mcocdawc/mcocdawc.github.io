@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2015-01-01-Theoretical-Rovibrational-Spectroscopy-beyond-Fc-CCSDT-The-Cation-CNC
 date: 2015-01-01
 venue: 'Mol. Phys.'
-citation: ' Benjamin Schr{\&quot;o}der,  Oskar Weser,  Peter Sebald,  Peter Botschwina, &quot;Theoretical Rovibrational Spectroscopy beyond Fc-CCSD(T): The Cation CNC+.&quot; Mol. Phys., 2015.'
+citation: ' Benjamin Schröder,  Oskar Weser,  Peter Sebald,  Peter Botschwina; Theoretical Rovibrational Spectroscopy beyond Fc-CCSD(T): The Cation CNC+; Mol. Phys., 2015.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Theoretical+Rovibrational+Spectroscopy+beyond+Fc+CCSD(T):+The+Cation+CNC+){:target="_blank"} for full citation
