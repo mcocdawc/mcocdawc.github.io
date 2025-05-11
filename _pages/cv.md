@@ -90,9 +90,16 @@ Research internship -->
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+First authored Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.first_authored_publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+Co-authored Publications
+======
+  <ul>{% for post in site.co_authored_publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
