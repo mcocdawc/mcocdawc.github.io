@@ -6,6 +6,8 @@ date: 2023-10-01
 venue: 'J. Chem. Theory Comput.'
 citation: ' Giovanni Li,  Ignacio Fdez.,  Ali Alavi,  [...],  Oskar Weser,  [...] ,  Roland Lindh, &quot;The OpenMolcas Web: A Community-Driven Approach to Advancing Computational Chemistry.&quot; J. Chem. Theory Comput., 2023.'
 ---
+[Download paper here](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00182)
+
 Use [Google Scholar](https://scholar.google.com/scholar?q=The+OpenMolcas+Web:+A+Community+Driven+Approach+to+Advancing+Computational+Chemistry){:target="_blank"} for full citation
 
 
