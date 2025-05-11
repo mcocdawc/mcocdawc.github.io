@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Hi, my name is Oskar.
 I am a theoretical chemist with a focus on electronic structure theory and quantum chemical methods.
 My work explores the fundamental principles governing molecular systems, with applications ranging from spectroscopy to complex materials.
