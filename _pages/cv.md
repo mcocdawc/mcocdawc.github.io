@@ -13,44 +13,42 @@ redirect_from:
 
 ### Postdoctoral Research
 
-- **Massachusetts Institute of Technology** (2024– )
+- **Massachusetts Institute of Technology, Cambridge** (2024– )
   *Group of Troy van Voorhis*
-  - Development of quantum embedding methods and interpolation of reaction paths.
+  <!-- - Development of quantum embedding methods and interpolation of reaction paths. -->
 
-- **Max Planck Institute for Solid State Research** (2024)
+- **Max Planck Institute for Solid State Research, Stuttgart** (2024)
   *Group of Ali Alavi*
-  - Wrap up post-doc. Continued work on stochastic CI methods following PhD defense.
+  <!-- - Wrap up post-doc. Continued work on stochastic CI methods following PhD defense. -->
 
 ### PhD in Chemistry
-- **Max Planck Institute for Solid State Research** (2019–2024)
+- **Max Planck Institute for Solid State Research, Stuttgart** (2019–2024)
   *Group of Ali Alavi, supervised by Giovanni Li Manni*
-  - Thesis: *Novel Stochastic Methods in Electronic Structure Theory and Their Application*.
+  <!-- - Thesis: *Novel Stochastic Methods in Electronic Structure Theory and Their Application*. -->
   - Defended with distinction (*summa cum laude*)
   - 11 publications during PhD
 
-### Master of Science in Chemistry
-- **Georg-August-Universität, Göttingen** (2015–2018)
-  - Thesis: *An efficient and general library for the definition and use of internal coordinates in large molecular systems*
+### Chemistry education
+- Master, **Georg-August-Universität, Göttingen** (2015–2018)
+  <!-- - Thesis: *An efficient and general library for the definition and use of internal coordinates in large molecular systems*
   <!-- - Final Grade: **1.3** (German scale) -->
-  - 4 publications during Master’s studies
+  <!-- - 4 publications during Master’s studies -->
 
 <!-- ### ERASMUS+ Exchange (2015–2016)
 **Lund University, Sweden**
 *Group of Valera Veryazov*
 Research internship -->
 
-### Bachelor of Science in Chemistry (2011–2015)
-- **Georg-August-Universität, Göttingen**
-  - Thesis: *Highly accurate computation of spectroscopic properties for small molecular cations*
+<!-- ### Bachelor of Science in Chemistry (2011–2015) -->
+- Bachelor, **Georg-August-Universität, Göttingen** (2011–2015)
+  <!-- - Thesis: *Highly accurate computation of spectroscopic properties for small molecular cations* -->
   <!-- - Final Grade: **1.6** -->
 
----
+### Maths education
 
-## Additional Education
-
-### Bachelor of Science in Mathematics (2012–2021), **Fernuniversität Hagen**
+- Bachelor, **Fernuniversität Hagen** (2012–2021)
 <!-- Final Grade: **1.8** -->
-- Thesis: *The Dirac-Operator on Quantumgraphs*
+<!-- - Thesis: *The Dirac-Operator on Quantumgraphs* -->
 
 ---
 
