@@ -103,11 +103,11 @@ Co-authored Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 <!-- Teaching
 ======
